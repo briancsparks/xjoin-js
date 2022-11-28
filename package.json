@@ -1,0 +1,19 @@
+{
+  "name": "xjoin",
+  "version": "1.0.0",
+  "description": "like a join, but for things across the Interwebs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/xjoin-js.git"
+  },
+  "author": "Brian C Sparks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/xjoin-js/issues"
+  },
+  "homepage": "https://github.com/briancsparks/xjoin-js#readme"
+}
